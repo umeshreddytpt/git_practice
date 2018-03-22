@@ -1,4 +1,4 @@
 this is my first file in git
 hi
-added one more line
-hi
+to test merge conflicts
+hiiii
