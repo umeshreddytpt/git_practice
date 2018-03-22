@@ -1,7 +1,1 @@
-this is my first file in git
-hi
-to test merge conflicts
-hiiii
-this is a test branch code
-hi
-test merge changes
+test
